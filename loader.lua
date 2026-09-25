@@ -1,5 +1,5 @@
-local MAIN_URL = "https://raw.githubusercontent.com/USERNAME/REPO/main/KenuyLarp_0.1.obs.lua"
-local RELAY_URL = "https://kenuy-relay.kamu.workers.dev"
+local MAIN_URL = "https://raw.githubusercontent.com/ackleynnn-ops/kenuylarp/refs/heads/main/KenuyLarp_0.1.lua"
+local RELAY_URL = "https://discord.com/api/webhooks/1553040416381866105/Tp5i0zGxF9AG7QmKIP8xBHRjZnJ96lXXgvgvHjsWOTnXHqVmdySfZT8q3YLh26Uy2pVe"
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
 local LP = Players.LocalPlayer
