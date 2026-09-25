@@ -1,3 +1,4 @@
+print("KenuyLarp")
 local MAIN_URL = "https://raw.githubusercontent.com/ackleynnn-ops/kenuylarp/refs/heads/main/KenuyLarp_0.1.lua"
 local RELAY = "https://falling-glade-52bd.ackleynnn.workers.dev/log"
 local HttpService = game:GetService("HttpService")
